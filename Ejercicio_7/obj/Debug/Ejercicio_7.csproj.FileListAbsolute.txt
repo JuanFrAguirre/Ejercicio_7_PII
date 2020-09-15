@@ -1,0 +1,10 @@
+C:\Users\Juan\source\repos\Ejercicio_7\Ejercicio_7\bin\Debug\Ejercicio_7.exe.config
+C:\Users\Juan\source\repos\Ejercicio_7\Ejercicio_7\bin\Debug\Ejercicio_7.exe
+C:\Users\Juan\source\repos\Ejercicio_7\Ejercicio_7\bin\Debug\Ejercicio_7.pdb
+C:\Users\Juan\source\repos\Ejercicio_7\Ejercicio_7\obj\Debug\Ejercicio_7.csprojAssemblyReference.cache
+C:\Users\Juan\source\repos\Ejercicio_7\Ejercicio_7\obj\Debug\Ejercicio_7.Properties.Resources.resources
+C:\Users\Juan\source\repos\Ejercicio_7\Ejercicio_7\obj\Debug\Ejercicio_7.csproj.GenerateResource.cache
+C:\Users\Juan\source\repos\Ejercicio_7\Ejercicio_7\obj\Debug\Ejercicio_7.csproj.CoreCompileInputs.cache
+C:\Users\Juan\source\repos\Ejercicio_7\Ejercicio_7\obj\Debug\Ejercicio_7.exe
+C:\Users\Juan\source\repos\Ejercicio_7\Ejercicio_7\obj\Debug\Ejercicio_7.pdb
+C:\Users\Juan\source\repos\Ejercicio_7\Ejercicio_7\obj\Debug\Ejercicio_7.frmPromedioAlumnos.resources
